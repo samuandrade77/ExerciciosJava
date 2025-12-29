@@ -1,0 +1,16 @@
+INDEX VERSION 1.134+C:\Users\samue\OneDrive\Programas\Java\ws-eclipse\.metadata\.plugins\org.eclipse.jdt.core
+3454019778.index
+4079286404.index
+653621179.index
+3410813124.index
+1094012248.index
+41208313.index
+2094742958.index
+2350083299.index
+4279485229.index
+4104685077.index
+4269759981.index
+2933943757.index
+1865797976.index
+3920778211.index
+3659756623.index
